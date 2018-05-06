@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lam",
+				"lambda_vec"
+			],
+			[
+				"The",
+				"Theta2_grad"
+			],
+			[
+				"all",
+				"all_theta"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse"
+	],
+	"file_history":
+	[
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex6/ex6/ex6.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex6/ex6/svmTrain.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex6/ex6/svmPredict.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex6/ex6/emailFeatures.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex6/ex6/processEmail.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex6/ex6/dataset3Params.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex6/ex6/gaussianKernel.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex5/ex5/linearRegCostFunction.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex5/ex5/learningCurve.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex5/ex5/polyFeatures.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex5/ex5/validationCurve.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex5/ex5/trainLinearReg.m",
+		"/Users/vipyati/git/Pricing/ci-build.sh",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex4/ex4/randInitializeWeights.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex4/ex4/sigmoidGradient.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex4/ex4/ex4.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex3/ex3/lrCostFunction.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex3/ex3/predict.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex3/ex3.pdf",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex3/ex3/fmincg.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex3/ex3/predictOneVsAll.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex3/ex3/oneVsAll.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex3/ex3/ex3.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex2/ex2/plotData.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/vipyati/Documents/MLCourse/MLStanfordCourse/machine-learning-ex2/ex2/predict.m",
+		"/Users/vipyati/Downloads/Temp/ItemAuthentication.json",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/ex1.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/plotData.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/normalEqn.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/featureNormalize.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/ex1data2.txt",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/ex1_multi.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/gradientDescent.m",
+		"/Users/vipyati/Documents/MLCourse/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/private/var/folders/s0/2l5cc4x912bgk9g40g0mmvvh38yl5s/T/com.microsoft.Outlook/Outlook Temp/5001880067-current.json",
+		"/Users/vipyati/Documents/Output.out",
+		"/Users/vipyati/Documents/5001658781_current.json",
+		"/Users/vipyati/Downloads/Temp/VOE Letter Request - Experience Letter (Americas) INSERT YOUR NAME - Last name First name.oft",
+		"/Users/vipyati/Documents/DataFilePostman"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"vocab",
+			"build-ebay",
+			"package",
+			"CI_ONLY_BUILD",
+			"Manifest",
+			"Hermès",
+			"HERMES",
+			"Hermes",
+			"\\n",
+			"&"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"','",
+			",",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
